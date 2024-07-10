@@ -1,0 +1,8 @@
+h1{
+   border: 3px solid hsl(234, 100%, 56%); 
+   border-radius: 10px;
+}
+p{
+    border-bottom: 3px solid rgb(252,28,28);
+
+}
